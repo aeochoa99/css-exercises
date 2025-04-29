@@ -1,9 +1,11 @@
 .odd {
     background-color: rgb(255, 188, 202);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
-    font-size: 24px;
 }
 
+.font-size {
+    font-size: 24px;
+}
 #blue {
     color: rgb(0, 0, 192);
     font-size: 36px;
