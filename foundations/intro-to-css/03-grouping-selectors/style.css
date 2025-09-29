@@ -2,3 +2,7 @@
     background-color: #000;
     color: rgb(255, 255, 255);
 }
+
+.btn-2 {
+    background-color: hsla(60, 100%, 50%);
+}
